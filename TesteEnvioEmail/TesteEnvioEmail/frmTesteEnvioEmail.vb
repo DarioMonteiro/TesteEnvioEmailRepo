@@ -73,7 +73,7 @@ Public Class frmTesteEnvioEmail
             End If
 
             objSmtp.Send(objMail)
-            MsgBox("Envio executado com sucesso.", MsgBoxStyle.Information, "Sucesso")
+            MsgBox("Envio executado com sucesso!", MsgBoxStyle.Information, "Sucesso")
 
 
             'Try
