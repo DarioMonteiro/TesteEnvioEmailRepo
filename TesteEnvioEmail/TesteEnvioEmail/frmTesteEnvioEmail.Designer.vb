@@ -182,6 +182,7 @@ Partial Class frmTesteEnvioEmail
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.Color.White
         Me.ClientSize = New System.Drawing.Size(572, 266)
         Me.Controls.Add(Me.txtEmailPara)
         Me.Controls.Add(Me.labPara)
@@ -197,8 +198,10 @@ Partial Class frmTesteEnvioEmail
         Me.Controls.Add(Me.cboSmtpServidorSaidaEmail)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.btnEnviarEmail)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow
         Me.Margin = New System.Windows.Forms.Padding(2)
         Me.Name = "frmTesteEnvioEmail"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Teste envio de email"
         Me.ResumeLayout(False)
         Me.PerformLayout()
