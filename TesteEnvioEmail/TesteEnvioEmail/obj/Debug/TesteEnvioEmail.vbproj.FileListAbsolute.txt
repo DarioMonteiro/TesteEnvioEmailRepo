@@ -29,12 +29,12 @@ C:\DESENVOLVIMENTO\TesteEnvioEmail\TesteEnvioEmail\obj\Debug\TesteEnvioEmail.exe
 C:\DESENVOLVIMENTO\TesteEnvioEmail\TesteEnvioEmail\obj\Debug\TesteEnvioEmail.xml
 C:\DESENVOLVIMENTO\TesteEnvioEmail\TesteEnvioEmail\obj\Debug\TesteEnvioEmail.pdb
 C:\DESENVOLVIMENTO\Repos\TesteEnvioEmailRepo\TesteEnvioEmail\TesteEnvioEmail\bin\Debug\TesteEnvioEmail.exe.config
-C:\DESENVOLVIMENTO\Repos\TesteEnvioEmailRepo\TesteEnvioEmail\TesteEnvioEmail\obj\Debug\TesteEnvioEmail.exe
-C:\DESENVOLVIMENTO\Repos\TesteEnvioEmailRepo\TesteEnvioEmail\TesteEnvioEmail\obj\Debug\TesteEnvioEmail.xml
-C:\DESENVOLVIMENTO\Repos\TesteEnvioEmailRepo\TesteEnvioEmail\TesteEnvioEmail\obj\Debug\TesteEnvioEmail.pdb
 C:\DESENVOLVIMENTO\Repos\TesteEnvioEmailRepo\TesteEnvioEmail\TesteEnvioEmail\bin\Debug\TesteEnvioEmail.exe
 C:\DESENVOLVIMENTO\Repos\TesteEnvioEmailRepo\TesteEnvioEmail\TesteEnvioEmail\bin\Debug\TesteEnvioEmail.pdb
 C:\DESENVOLVIMENTO\Repos\TesteEnvioEmailRepo\TesteEnvioEmail\TesteEnvioEmail\bin\Debug\TesteEnvioEmail.xml
 C:\DESENVOLVIMENTO\Repos\TesteEnvioEmailRepo\TesteEnvioEmail\TesteEnvioEmail\obj\Debug\TesteEnvioEmail.frmTesteEnvioEmail.resources
 C:\DESENVOLVIMENTO\Repos\TesteEnvioEmailRepo\TesteEnvioEmail\TesteEnvioEmail\obj\Debug\TesteEnvioEmail.Resources.resources
 C:\DESENVOLVIMENTO\Repos\TesteEnvioEmailRepo\TesteEnvioEmail\TesteEnvioEmail\obj\Debug\TesteEnvioEmail.vbproj.GenerateResource.Cache
+C:\DESENVOLVIMENTO\Repos\TesteEnvioEmailRepo\TesteEnvioEmail\TesteEnvioEmail\obj\Debug\TesteEnvioEmail.exe
+C:\DESENVOLVIMENTO\Repos\TesteEnvioEmailRepo\TesteEnvioEmail\TesteEnvioEmail\obj\Debug\TesteEnvioEmail.xml
+C:\DESENVOLVIMENTO\Repos\TesteEnvioEmailRepo\TesteEnvioEmail\TesteEnvioEmail\obj\Debug\TesteEnvioEmail.pdb
