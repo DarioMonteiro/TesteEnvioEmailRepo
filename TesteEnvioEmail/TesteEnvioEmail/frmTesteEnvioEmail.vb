@@ -36,7 +36,7 @@ Public Class frmTesteEnvioEmail
 
         Try
 
-            'teste
+            'se DEUS quiser finalizei, ele ´poderoso
 
             Cursor.Current = Cursors.WaitCursor
 
