@@ -36,6 +36,8 @@ Public Class frmTesteEnvioEmail
 
         Try
 
+            'teste
+
             Cursor.Current = Cursors.WaitCursor
 
             strSubject = "Título Email"
