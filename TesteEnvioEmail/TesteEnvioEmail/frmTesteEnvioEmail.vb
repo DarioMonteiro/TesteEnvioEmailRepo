@@ -35,7 +35,7 @@ Public Class frmTesteEnvioEmail
         Dim strSubject, strEmail As String
 
         Try
-            'teste
+            'teste 2
 
             Cursor.Current = Cursors.WaitCursor
 
